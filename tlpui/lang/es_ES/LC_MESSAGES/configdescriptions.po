@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TLPUI\n"
+"POT-Creation-Date: 2018-01-26 21:27+0100\n"
+"PO-Revision-Date: 2018-09-19 19:48+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"Last-Translator: \n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: configschema.json.h\n"
+
+#: configschema.json.h:1
+msgid "General__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:2
+msgid "TLP_ENABLE__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:3
+msgid "TLP_ENABLE__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:4
+msgid "TLP_DEFAULT_MODE__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:5
+msgid "TLP_DEFAULT_MODE__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:6
+msgid "TLP_PERSISTENT_DEFAULT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:7
+msgid "TLP_PERSISTENT_DEFAULT__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:8
+msgid "Audio__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:9
+msgid "SOUND_POWER_SAVE__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:10
+msgid "SOUND_POWER_SAVE__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:11
+msgid "SOUND_POWER_SAVE_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:12
+msgid "SOUND_POWER_SAVE_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:13
+msgid "SOUND_POWER_SAVE_CONTROLLER__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:14
+msgid "SOUND_POWER_SAVE_CONTROLLER__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:15
+msgid "Disks__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:16
+msgid "DISK_IDLE_SECS__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:17
+msgid "DISK_IDLE_SECS__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:18
+msgid "DISK_IDLE_SECS_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:19
+msgid "DISK_IDLE_SECS_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:20
+msgid "MAX_LOST_WORK_SECS__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:21
+msgid "MAX_LOST_WORK_SECS__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:22
+msgid "MAX_LOST_WORK_SECS_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:23
+msgid "MAX_LOST_WORK_SECS_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:24
+msgid "DISK_DEVICES__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:25
+msgid "DISK_DEVICES__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:26
+msgid "DISK_APM_LEVEL__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:27
+msgid "DISK_APM_LEVEL__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:28
+msgid "DISK_APM_LEVEL_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:29
+msgid "DISK_APM_LEVEL_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:30
+msgid "DISK_SPINDOWN_TIMEOUT__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:31
+msgid "DISK_SPINDOWN_TIMEOUT__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:32
+msgid "DISK_SPINDOWN_TIMEOUT_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:33
+msgid "DISK_SPINDOWN_TIMEOUT_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:34
+msgid "DISK_IOSCHED__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:35
+msgid "DISK_IOSCHED__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:36
+msgid "SATA_LINKPWR__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:37
+msgid "SATA_LINKPWR__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:38
+msgid "SATA_LINKPWR_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:39
+msgid "SATA_LINKPWR_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:40
+msgid "SATA_LINKPWR_BLACKLIST__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:41
+msgid "SATA_LINKPWR_BLACKLIST__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:42
+msgid "AHCI_RUNTIME_PM__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:43
+msgid "AHCI_RUNTIME_PM__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:44
+msgid "AHCI_RUNTIME_PM_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:45
+msgid "AHCI_RUNTIME_PM_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:46
+msgid "AHCI_RUNTIME_PM_TIMEOUT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:47
+msgid "AHCI_RUNTIME_PM_TIMEOUT__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:48
+msgid "BAY_POWEROFF__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:49
+msgid "BAY_POWEROFF__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:50
+msgid "BAY_POWEROFF_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:51
+msgid "BAY_POWEROFF_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:52
+msgid "BAY_POWEROFF_ON_BAT__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:53
+msgid "BAY_DEVICE__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:54
+msgid "BAY_DEVICE__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:55
+msgid "Graphics__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:56
+msgid "RADEON_POWER_PROFILE__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:57
+msgid "RADEON_POWER_PROFILE__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:58
+msgid "RADEON_POWER_PROFILE_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:59
+msgid "RADEON_POWER_PROFILE_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:60
+msgid "RADEON_DPM_STATE__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:61
+msgid "RADEON_DPM_STATE__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:62
+msgid "RADEON_DPM_STATE_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:63
+msgid "RADEON_DPM_STATE_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:64
+msgid "RADEON_DPM_PERF_LEVEL__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:65
+msgid "RADEON_DPM_PERF_LEVEL__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:66
+msgid "RADEON_DPM_PERF_LEVEL_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:67
+msgid "RADEON_DPM_PERF_LEVEL_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:68
+msgid "Network__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:69
+msgid "WIFI_PWR__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:70
+msgid "WIFI_PWR__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:71
+msgid "WIFI_PWR_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:72
+msgid "WIFI_PWR_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:73
+msgid "WOL_DISABLE__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:74
+msgid "WOL_DISABLE__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:75
+msgid "PCIe__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:76
+msgid "PCIE_ASPM__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:77
+msgid "PCIE_ASPM__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:78
+msgid "PCIE_ASPM_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:79
+msgid "PCIE_ASPM_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:80
+msgid "RUNTIME_PM__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:81
+msgid "RUNTIME_PM__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:82
+msgid "RUNTIME_PM_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:83
+msgid "RUNTIME_PM_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:84
+msgid "RUNTIME_PM_ALL__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:85
+msgid "RUNTIME_PM_ALL__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:86
+msgid "RUNTIME_PM_BLACKLIST__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:87
+msgid "RUNTIME_PM_BLACKLIST__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:88
+msgid "RUNTIME_PM_DRIVER_BLACKLIST__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:89
+msgid "RUNTIME_PM_DRIVER_BLACKLIST__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:90
+msgid "Processor__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:91
+msgid "CPU_SCALING_GOVERNOR__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:92
+msgid "CPU_SCALING_GOVERNOR__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:93
+msgid "CPU_SCALING_GOVERNOR_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:94
+msgid "CPU_SCALING_GOVERNOR_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:95
+msgid "CPU_SCALING_FREQ__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:96
+msgid "CPU_SCALING_FREQ__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:97
+msgid "CPU_SCALING_MIN_FREQ_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:98
+msgid "CPU_SCALING_MAX_FREQ_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:99
+msgid "CPU_SCALING_MIN_FREQ_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:100
+msgid "CPU_SCALING_MAX_FREQ_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:101
+msgid "CPU_HWP__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:102
+msgid "CPU_HWP__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:103
+msgid "CPU_HWP_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:104
+msgid "CPU_HWP_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:105
+msgid "CPU_PERF__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:106
+msgid "CPU_PERF__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:107
+msgid "CPU_MIN_PERF_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:108
+msgid "CPU_MAX_PERF_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:109
+msgid "CPU_MIN_PERF_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:110
+msgid "CPU_MAX_PERF_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:111
+msgid "CPU_BOOST__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:112
+msgid "CPU_BOOST__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:113
+msgid "CPU_BOOST_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:114
+msgid "CPU_BOOST_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:115
+msgid "SCHED_POWERSAVE__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:116
+msgid "SCHED_POWERSAVE__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:117
+msgid "SCHED_POWERSAVE_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:118
+msgid "SCHED_POWERSAVE_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:119
+msgid "NMI_WATCHDOG__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:120
+msgid "NMI_WATCHDOG__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:121
+msgid "PHC_CONTROLS__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:122
+msgid "PHC_CONTROLS__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:123
+msgid "ENERGY_PERF_POLICY__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:124
+msgid "ENERGY_PERF_POLICY__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:125
+msgid "ENERGY_PERF_POLICY_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:126
+msgid "ENERGY_PERF_POLICY_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:127
+msgid "Radio__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:128
+msgid "RESTORE_DEVICE_STATE_ON_STARTUP__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:129
+msgid "RESTORE_DEVICE_STATE_ON_STARTUP__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:130
+msgid "DEVICES_TO_DISABLE_ON_STARTUP__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:131
+msgid "DEVICES_TO_DISABLE_ON_STARTUP__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:132
+msgid "DEVICES_TO_ENABLE_ON_STARTUP__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:133
+msgid "DEVICES_TO_ENABLE_ON_STARTUP__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:134
+msgid "DEVICES_TO_DISABLE_ON_SHUTDOWN__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:135
+msgid "DEVICES_TO_DISABLE_ON_SHUTDOWN__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:136
+msgid "DEVICES_TO_ENABLE_ON_SHUTDOWN__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:137
+msgid "DEVICES_TO_ENABLE_ON_SHUTDOWN__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:138
+msgid "DEVICES_TO_ENABLE_ON_AC__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:139
+msgid "DEVICES_TO_ENABLE_ON_AC__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:140
+msgid "DEVICES_TO_DISABLE_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:141
+msgid "DEVICES_TO_DISABLE_ON_BAT__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:142
+msgid "DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:143
+msgid "DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:144
+msgid "Radio Device Wizard__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:145
+msgid "DEVICES_TO_DISABLE_ON_CONNECT__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:146
+msgid "DEVICES_TO_DISABLE_ON_CONNECT__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:147
+msgid "DEVICES_TO_DISABLE_ON_LAN_CONNECT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:148
+msgid "DEVICES_TO_DISABLE_ON_WIFI_CONNECT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:149
+msgid "DEVICES_TO_DISABLE_ON_WWAN_CONNECT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:150
+msgid "DEVICES_TO_ENABLE_ON_DISCONNECT__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:151
+msgid "DEVICES_TO_ENABLE_ON_DISCONNECT__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:152
+msgid "DEVICES_TO_ENABLE_ON_LAN_DISCONNECT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:153
+msgid "DEVICES_TO_ENABLE_ON_WIFI_DISCONNECT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:154
+msgid "DEVICES_TO_ENABLE_ON_WWAN_DISCONNECT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:155
+msgid "DEVICES_ON_DOCK__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:156
+msgid "DEVICES_ON_DOCK__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:157
+msgid "DEVICES_TO_ENABLE_ON_DOCK__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:158
+msgid "DEVICES_TO_DISABLE_ON_DOCK__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:159
+msgid "DEVICES_ON_UNDOCK__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:160
+msgid "DEVICES_ON_UNDOCK__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:161
+msgid "DEVICES_TO_ENABLE_ON_UNDOCK__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:162
+msgid "DEVICES_TO_DISABLE_ON_UNDOCK__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:163
+msgid "USB__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:164
+msgid "USB_AUTOSUSPEND__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:165
+msgid "USB_AUTOSUSPEND__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:166
+msgid "USB_BLACKLIST__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:167
+msgid "USB_BLACKLIST__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:168
+msgid "USB_BLACKLIST_BTUSB__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:169
+msgid "USB_BLACKLIST_BTUSB__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:170
+msgid "USB_BLACKLIST_PHONE__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:171
+msgid "USB_BLACKLIST_PHONE__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:172
+msgid "USB_BLACKLIST_PRINTER__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:173
+msgid "USB_BLACKLIST_PRINTER__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:174
+msgid "USB_BLACKLIST_WWAN__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:175
+msgid "USB_BLACKLIST_WWAN__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:176
+msgid "USB_WHITELIST__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:177
+msgid "USB_WHITELIST__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:178
+msgid "USB_AUTOSUSPEND_DISABLE_ON_SHUTDOWN__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:179
+msgid "USB_AUTOSUSPEND_DISABLE_ON_SHUTDOWN__ID_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:180
+msgid "ThinkPad Battery__CATEGORY_TITLE"
+msgstr ""
+
+#: configschema.json.h:181
+msgid "CHARGE_THRESH_BAT0__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:182
+msgid "CHARGE_THRESH_BAT0__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:183
+msgid "START_CHARGE_THRESH_BAT0__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:184
+msgid "STOP_CHARGE_THRESH_BAT0__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:185
+msgid "CHARGE_THRESH_BAT1__GROUP_TITLE"
+msgstr ""
+
+#: configschema.json.h:186
+msgid "CHARGE_THRESH_BAT1__GROUP_DESCRIPTION"
+msgstr ""
+
+#: configschema.json.h:187
+msgid "START_CHARGE_THRESH_BAT1__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:188
+msgid "STOP_CHARGE_THRESH_BAT1__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:189
+msgid "RESTORE_THRESHOLDS_ON_BAT__ID_TITLE"
+msgstr ""
+
+#: configschema.json.h:190
+msgid "RESTORE_THRESHOLDS_ON_BAT__ID_DESCRIPTION"
+msgstr ""
